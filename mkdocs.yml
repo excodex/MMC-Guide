@@ -10,6 +10,7 @@ plugins:
 markdown_extensions:
   - meta
   - attr_list
+  - def_list
 
 theme:
   font:
