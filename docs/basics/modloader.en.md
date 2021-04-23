@@ -24,5 +24,5 @@ The modloader is an extension for Vanilla Minecraft Java Edition to load communi
 `What is the difference between the 'Latest' and 'Recommended' versions on Forge?`
 :	The Latest version may contain more bugs and crashes your game more often than the Recommended versions.
 
-`Is it comptabile with Bedrock Edition?`
+`Is it compatible with Bedrock Edition?`
 :	No, it is only compatible with Java Edition.
