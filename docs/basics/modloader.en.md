@@ -25,4 +25,4 @@ The modloader is an extension for Vanilla Minecraft Java Edition to load communi
 :	The Latest version may contain more bugs and crashes your game more often than the Recommended versions.
 
 `Is it compatible with Bedrock Edition?`
-:	No, it is only compatible with Java Edition.
+:	No, it is compatible with Java Edition only.

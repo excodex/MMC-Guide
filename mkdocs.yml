@@ -8,6 +8,10 @@ plugins:
         en: English
 
 markdown_extensions:
+  - pymdownx.keys
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - meta
   - attr_list
   - def_list
