@@ -10,6 +10,7 @@ This mod adds simple and highly configurable pipes that are designed to create a
 - Mod author: [henkelmax](https://www.curseforge.com/members/henkelmax)
 - Download at [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pipez)
 - [Mod website](https://modrepo.de/minecraft/pipez/overview)
+- [GitHub issues](https://github.com/henkelmax/pipez/issues)
 
 ## Start with mod
 
