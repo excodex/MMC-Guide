@@ -126,7 +126,7 @@ advanced {
 }
 ```
 
-#### Using CraftTweaker
+#### Using CraftTweaker on 1.12
 
 In this case we are **hiding** diamond, water, lava (line 2, 5, 6). These items can be crafted if you know the recipe. But we also **removing** the Iron Leggings (line 10) and every planks (line 11). This way you can not view and craft these items.
 
